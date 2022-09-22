@@ -1,1 +1,29 @@
-Fhhj
+
+#EXTM3U
+#EXTINF:-1 xui-id="8" tvg-id="indosiar.id" tvg-name="Indosiar" tvg-logo="https://iptv.lancartech.co.id:443/images/d105831b70f9087125f4efa736bdcad8.png" group-title="Local",Indosiar
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+
+#EXTINF:0 tvg-id="ext" group-title="Live BRI LIGA 1",BRI LIGA SEVER 1
+https://etslive-2-vidio-com.akamaized.net/exp=1663434220~acl=/hls-p/ingest_9785_*/*~hmac=7df3a9acb626a1c2c84cbd1f5f99288da29bdf9cb2f00dad6ddcd44004273526/hls-p/ingest_9785_720p/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Live BRI LIGA 1",BRI LIGA SEVER 2
+https://etslive-2-vidio-com.akamaized.net/exp=1663427130~acl=/hls-p/ingest_206_*/*~hmac=6cabf56422b09c5a936ca752ff63234d4cb5f8bce472a853629bec0d3b490f21/hls-p/ingest_206_720p/index.m3u8
+
+#EXTINF:-1 xui-id="53223" tvg-id="astrosupersport2.my" tvg-name="Astro Super Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/a071056319cedd46e3e2ee3dbea1089c.png" group-title="VIP Sports",Astro Super Sport 2
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/73.ts
+#EXTINF:0 tvg-id="SPOTV.kr" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png" group-title="VIP SPORT",SPOTV 1
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+#EXTINF:0 tvg-id="SPOTV2.kr" tvg-logo="https://i.ibb.co/N7LpgDN/channel-428-modified.png" group-title="VIP SPORT",SPOTV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sport HD 7610",Unifi Sports 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+#EXTINF:-1 xui-id="53222" tvg-id="astrosupersport.my" tvg-name="Astro Super Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/ce3c6f4098a88251fe7d8d3d60a544eb.png" group-title="VIP Sports",Astro Super Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/178.ts
+
+#EXTINF:0 tvg-id="ChampionsTV3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png" group-title="Sports",Champions 3
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/boxing.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sport HD 7610",Unifi Sports 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:0 tvg-id="ChampionsTV4.id" tvg-logo="https://thumbor.prod.vidiocdn.com/BNvg3XY4KhCt9r85x8k72XQHV1k=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7953/448640.png"group-title="HIBURAN",HBO TV
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/matchft3|user-agent
