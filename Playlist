@@ -20,13 +20,11 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 xui-id="53222" tvg-id="astrosupersport.my" tvg-name="Astro Super Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/ce3c6f4098a88251fe7d8d3d60a544eb.png" group-title="VIP Sports",Astro Super Sport 1
 http://play.cornertv.biz.id:8080/live/Kucoba/12345/178.ts
 
-#EXTINF:0 tvg-id="BokingTV.kr" tvg-logo="https://i.ibb.co/SnFRPsp/boxing-tv-thumbnail-modified.png
-" group-title="SPORT",Boking
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/boxing.m3u8
+#EXTINF:0 tvg-id="ChampionsTV3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png" group-title="Sports",Champions 3
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/mma.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sport HD 7610",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:0 tvg-id="BokingTV.kr" tvg-logo="https://i.ibb.co/SnFRPsp/boxing-tv-thumbnail-modified.png
-" group-title="SPORT",SPOTV 1
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/matchft3|user-agent
+#EXTINF:0 tvg-id="boxing.id" tvg-logo="https://i.ibb.co/SnFRPsp/boxing-tv-thumbnail-modified.png"group-title="SPORT",boxing
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/boxing.m3u8
