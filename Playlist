@@ -1,36 +1,429 @@
-
 #EXTM3U
-#EXTINF:-1 xui-id="8" tvg-id="indosiar.id" tvg-name="Indosiar" tvg-logo="https://iptv.lancartech.co.id:443/images/d105831b70f9087125f4efa736bdcad8.png" group-title="Local",Indosiar
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
-
-#EXTINF:0 tvg-id="ext" group-title="Live BRI LIGA 1",BRI LIGA SEVER 1
-https://etslive-2-vidio-com.akamaized.net/exp=1663434220~acl=/hls-p/ingest_9785_*/*~hmac=7df3a9acb626a1c2c84cbd1f5f99288da29bdf9cb2f00dad6ddcd44004273526/hls-p/ingest_9785_720p/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Live BRI LIGA 1",BRI LIGA SEVER 2
-https://etslive-2-vidio-com.akamaized.net/exp=1663427130~acl=/hls-p/ingest_206_*/*~hmac=6cabf56422b09c5a936ca752ff63234d4cb5f8bce472a853629bec0d3b490f21/hls-p/ingest_206_720p/index.m3u8
-
-#EXTINF:-1 xui-id="53223" tvg-id="astrosupersport2.my" tvg-name="Astro Super Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/a071056319cedd46e3e2ee3dbea1089c.png" group-title="VIP Sports",Astro Super Sport 2
-http://play.cornertv.biz.id:8080/live/Kucoba/12345/73.ts
-#EXTINF:0 tvg-id="SPOTV.kr" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png" group-title="VIP SPORT",SPOTV 1
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
-#EXTINF:0 tvg-id="SPOTV2.kr" tvg-logo="https://i.ibb.co/N7LpgDN/channel-428-modified.png" group-title="VIP SPORT",SPOTV 2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sport HD 7610",Unifi Sports 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-#EXTINF:-1 xui-id="53222" tvg-id="astrosupersport.my" tvg-name="Astro Super Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/ce3c6f4098a88251fe7d8d3d60a544eb.png" group-title="VIP Sports",Astro Super Sport 1
-http://play.cornertv.biz.id:8080/live/Kucoba/12345/178.ts
-
-#EXTINF:0 tvg-id="ChampionsTV3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png" group-title="Sports",Champions 3
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/mma.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="Sport HD 7610",Unifi Sports 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:0 tvg-id="boxing.id" tvg-logo="https://i.ibb.co/SnFRPsp/boxing-tv-thumbnail-modified.png"group-title="SPORT",boxing
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/boxing.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/hs4cYBj/hqdefault-modified-1.png" group-title="PENGETAHUAN", HBO
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
-
-#EXTINF:-1 xui-id="8" tvg-id="WWE NETWORK (VPN)',,'http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd','http://linear-poster.astro.com.my/prod/logo/WWE_v1.png','Malaysia','821','',0,-1,'clearkey','https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9',,,,,0,546,1,0,0,0,0,0,0,,,1,,'',,,'',,,
+#EXTINF:-1 tvg-id="" tvg-name="TV6" tvg-logo="" group-title="Malaysia",TV6
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="https://i.ibb.co/mFdBZMM/chinese-drama-home-tv.png" group-title="China/Taiwan",Chinese Drama
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/263.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://i.ibb.co/KW62PjG/bioskop-id-home-tv.png" group-title="Movies",Bioskop Indonesia
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/262.ts
+#EXTINF:-1 tvg-id="" tvg-name="CERIA" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="Kids",CERIA
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="TaaDaa" tvg-logo="https://i.ibb.co/0Gth3r1/1647840652381.png" group-title="Kids",TaaDaa
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/117.ts
+#EXTINF:-1 tvg-id="" tvg-name="AT: SKY Sport 1" tvg-logo="https://i.ibb.co/ZNCJBfc/SGN-09-11-2022-1662912136635.png" group-title="Sport",AT: SKY Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/638.ts
+#EXTINF:-1 tvg-id="" tvg-name="AT: SKY Sport 2 (Event Only)" tvg-logo="https://i.ibb.co/Fxb1p7J/SGN-09-11-2022-1662912172025.png" group-title="Sport",AT: SKY Sport 2 (Event Only)
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/639.ts
+#EXTINF:-1 tvg-id="" tvg-name="AT: SKY Sport 3 (Event Only)" tvg-logo="https://i.ibb.co/1rQ2K3B/SGN-09-11-2022-1662912200376.png" group-title="Sport",AT: SKY Sport 3 (Event Only)
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/640.ts
+#EXTINF:-1 tvg-id="" tvg-name="AT: SKY Sport 4 (Event Only)" tvg-logo="https://i.ibb.co/cv00Y89/SGN-09-11-2022-1662912227725.png" group-title="Sport",AT: SKY Sport 4 (Event Only)
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/641.ts
+#EXTINF:-1 tvg-id="" tvg-name="AT: SKY Sport 5 (Event Only)" tvg-logo="https://i.ibb.co/ZgQTfCJ/SGN-09-11-2022-1662912254482.png" group-title="Sport",AT: SKY Sport 5 (Event Only)
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/774.ts
+#EXTINF:-1 tvg-id="" tvg-name="AT: SKY Sport 6 (Event Only)" tvg-logo="https://i.ibb.co/CQZLd8D/SGN-09-11-2022-1662912281575.png" group-title="Sport",AT: SKY Sport 6 (Event Only)
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/642.ts
+#EXTINF:-1 tvg-id="" tvg-name="AT: SKY Sport 7 (Event Only)" tvg-logo="https://i.ibb.co/SdztThN/SGN-09-11-2022-1662912307257.png" group-title="Sport",AT: SKY Sport 7 (Event Only)
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/643.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport 1 English" tvg-logo="https://i.ibb.co/4f3nFs5/Bein1-home-tv.png" group-title="Sport",BEIN Sport 1 English
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/246.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport 2 English" tvg-logo="https://i.ibb.co/NrXczpw/Bein2-home-tv.png" group-title="Sport",BEIN Sport 2 English
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/247.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sport 3 English" tvg-logo="https://i.ibb.co/KLHY98f/Bein3-home-tv.png" group-title="Sport",BEIN Sport 3 English
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/248.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3" tvg-logo="https://i.ibb.co/XjjmZ8S/Bt3.png" group-title="Sport",BT Sport 3
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/239.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ F1" tvg-logo="https://i.ibb.co/n08dsFB/SGN-09-11-2022-1662899732581.png" group-title="Sport",CANAL+ F1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/616.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Premier League" tvg-logo="https://i.ibb.co/jzxcnxy/SGN-09-11-2022-1662899861094.png" group-title="Sport",CANAL+ Premier League
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/617.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ MOTOGP" tvg-logo="https://i.ibb.co/Cz68wXs/SGN-09-11-2022-1662900035038.png" group-title="Sport",CANAL+ MOTOGP
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/618.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Sport 1" tvg-logo="https://i.ibb.co/h13Nks8/SGN-09-11-2022-1662900824019.png" group-title="Sport",CANAL+ Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/619.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Sport 2" tvg-logo="https://i.ibb.co/HVsnKBh/SGN-09-11-2022-1662900372969.png" group-title="Sport",CANAL+ Sport 2
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/620.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Sport 3" tvg-logo="https://i.ibb.co/Q654FDW/SGN-09-11-2022-1662900452639.png" group-title="Sport",CANAL+ Sport 3
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/621.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Sport 4" tvg-logo="https://i.ibb.co/2t76MvQ/SGN-09-11-2022-1662900571827.png" group-title="Sport",CANAL+ Sport 4
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/622.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Sport 5" tvg-logo="https://i.ibb.co/371kPQT/SGN-09-11-2022-1662900660540.png" group-title="Sport",CANAL+ Sport 5
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/623.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://i.ibb.co/ZzhDmPT/SGN-09-11-2022-1662912075395.png" group-title="Sport",DAZN 1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/644.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://i.ibb.co/3WKs5HQ/SGN-09-11-2022-1662912107486.png" group-title="Sport",DAZN 2
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/645.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN Sport 1" tvg-logo="https://i.ibb.co/ySVZHy8/SGN-09-11-2022-1662884280309.png" group-title="Sport",ELEVEN Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/582.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN Sport 2" tvg-logo="https://i.ibb.co/8K9TWpc/SGN-09-11-2022-1662884435437.png" group-title="Sport",ELEVEN Sport 2
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/583.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN Sport 3" tvg-logo="https://i.ibb.co/RYcp8kM/SGN-09-11-2022-1662884603201.png" group-title="Sport",ELEVEN Sport 3
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/584.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN Sport 4" tvg-logo="https://i.ibb.co/X7xxRzp/SGN-09-11-2022-1662884733662.png" group-title="Sport",ELEVEN Sport 4
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/585.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN Sport 5" tvg-logo="https://i.ibb.co/6mRFJKF/SGN-09-11-2022-1662885109296.png" group-title="Sport",ELEVEN Sport 5
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/586.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN Sport 6" tvg-logo="https://i.ibb.co/nfyZ8gW/SGN-09-11-2022-1662885225911.png" group-title="Sport",ELEVEN Sport 6
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/587.ts
+#EXTINF:-1 tvg-id="" tvg-name="EURO Sport 2" tvg-logo="https://i.ibb.co/fG2Zbkz/SGN-09-11-2022-1662901814775.png" group-title="Sport",EURO Sport 2
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/240.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 501" tvg-logo="https://i.ibb.co/RbbFzRc/SGN-09-17-2022-1663380390397.png" group-title="Sport",FOX Sport 501
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/788.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 502" tvg-logo="https://i.ibb.co/RbbFzRc/SGN-09-17-2022-1663380390397.png" group-title="Sport",FOX Sport 502
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/789.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 503" tvg-logo="https://i.ibb.co/RbbFzRc/SGN-09-17-2022-1663380390397.png" group-title="Sport",FOX Sport 503
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/790.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 504" tvg-logo="https://i.ibb.co/RbbFzRc/SGN-09-17-2022-1663380390397.png" group-title="Sport",FOX Sport 504
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/791.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 505" tvg-logo="https://i.ibb.co/RbbFzRc/SGN-09-17-2022-1663380390397.png" group-title="Sport",FOX Sport 505
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/792.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 506" tvg-logo="https://i.ibb.co/RbbFzRc/SGN-09-17-2022-1663380390397.png" group-title="Sport",FOX Sport 506
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/793.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 507" tvg-logo="https://i.ibb.co/RbbFzRc/SGN-09-17-2022-1663380390397.png" group-title="Sport",FOX Sport 507
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/794.ts
+#EXTINF:-1 tvg-id="" tvg-name="MNC Sport 1" tvg-logo="https://i.ibb.co/qYp5DyQ/SGN-07-06-2022-1657116325857.png" group-title="Sport",MNC Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/235.ts
+#EXTINF:-1 tvg-id="" tvg-name="MNC Sport 2" tvg-logo="https://i.ibb.co/d4YZ9T2/SGN-07-09-2022-1657333425796.png" group-title="Sport",MNC Sport 2
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/236.ts
+#EXTINF:-1 tvg-id="" tvg-name="MNC Sport 3" tvg-logo="https://i.ibb.co/4dsTNzn/SGN-07-09-2022-1657333524138.png" group-title="Sport",MNC Sport 3
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/237.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1" tvg-logo="https://i.ibb.co/qNzvDhj/SGN-06-05-2022-1654444366978.png" group-title="Sport",RMC Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/254.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2" tvg-logo="https://i.ibb.co/smhq2QG/SGN-06-05-2022-1654444432490.png" group-title="Sport",RMC Sport 2
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/255.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 3" tvg-logo="https://i.ibb.co/NKdTKwY/SGN-06-05-2022-1654444502813.png" group-title="Sport",RMC Sport 3
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/256.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 4" tvg-logo="https://i.ibb.co/6s2Cb88/SGN-06-05-2022-1654444595562.png" group-title="Sport",RMC Sport 4
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/257.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sport F1" tvg-logo="https://i.ibb.co/tqBLCkc/SGN-06-05-2022-1654444797058.png" group-title="Sport",SKY Sport F1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/242.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Football" tvg-logo="https://i.ibb.co/2Mp6zcc/SGN-09-11-2022-1662883953534.png" group-title="Sport",SKY Sport Football
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/580.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sport Premier League" tvg-logo="https://i.ibb.co/dG7xvZM/SGN-06-05-2022-1654444680894.png" group-title="Sport",SKY Sport Premier League
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="https://i.ibb.co/tmTM5GQ/SGN-03-22-2022-1647963016803.png" group-title="Sport",Sony Ten 1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/259.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="https://i.ibb.co/zNZrmjZ/SGN-03-22-2022-1647963051613.png" group-title="Sport",Sony Ten 2
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/260.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="https://i.ibb.co/nBmsj4C/SGN-03-22-2022-1647963085337.png" group-title="Sport",Sony Ten 3
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/261.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://i.ibb.co/D8f3KqT/SGN-05-01-2022-1651417198818.png" group-title="Sport",Sport TV 1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/249.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="https://i.ibb.co/D8f3KqT/SGN-05-01-2022-1651417198818.png" group-title="Sport",Sport TV 2
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/250.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="https://i.ibb.co/D8f3KqT/SGN-05-01-2022-1651417198818.png" group-title="Sport",Sport TV 3
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/251.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4" tvg-logo="https://i.ibb.co/D8f3KqT/SGN-05-01-2022-1651417198818.png" group-title="Sport",Sport TV 4
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/252.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="https://i.ibb.co/D8f3KqT/SGN-05-01-2022-1651417198818.png" group-title="Sport",Sport TV 5
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/253.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport : LA LIGA" tvg-logo="https://i.ibb.co/bNSMbPv/SGN-03-15-2022-1647334154186.png" group-title="Sport",Super Sport : LA LIGA
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/244.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport : Motorsport" tvg-logo="https://i.ibb.co/GQrfLCs/SGN-03-22-2022-1647962861007.png" group-title="Sport",Super Sport : Motorsport
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport : RUGBY" tvg-logo="https://i.ibb.co/0XswS5p/SGN-07-06-2022-1657116655664.png" group-title="Sport",Super Sport : RUGBY
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/581.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT" tvg-logo="https://i.ibb.co/2PWbKnX/SGN-09-11-2022-1662912349602.png" group-title="Sport",TRING SPORT
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/635.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Select" tvg-logo="https://i.ibb.co/8BYz7DX/SGN-04-24-2022-1650782577903.png" group-title="Sport",Ziggo Sport Select
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/588.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Voetball" tvg-logo="https://i.ibb.co/vqy7Z5X/SGN-05-01-2022-1651416977914.png" group-title="Sport",Ziggo Sport Voetball
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/589.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Docu" tvg-logo="https://i.ibb.co/HBLv2ZM/SGN-09-11-2022-1662900943365.png" group-title="Sport",Ziggo Sport Docu
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/590.ts
+#EXTINF:-1 tvg-id="" tvg-name="Madinah TV" tvg-logo="" group-title="Religi",Madinah TV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/1377.ts
+#EXTINF:-1 tvg-id="" tvg-name="Live event 1" tvg-logo="" group-title="Live Event",Live event 1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/1680.ts
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="Trans 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Indonesia",Trans 7
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/3.ts
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="Trans TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Indonesia",Trans TV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/4.ts
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Indonesia",Indosiar
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/5.ts
+#EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="iNews" tvg-logo="https://i.ibb.co/KWttnf1/inews-home-tv.png" group-title="Indonesia",iNews
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/6.ts
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Indonesia",SCTV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/7.ts
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Indonesia",RCTI
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/8.ts
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="Indonesia",MNCTV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/9.ts
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="Indonesia",GTV
+http://play.cornertv.biz.id:8080/live/Kucoba/12345/10.ts
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET" tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="Indonesia",NET
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/11.ts
+#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="Indonesia",TVOne
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/12.ts
+#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="Indonesia",Metro TV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/13.ts
+#EXTINF:-1 tvg-id="KompasTv.MACAN" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="Indonesia",Kompas TV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/14.ts
+#EXTINF:-1 tvg-id="TVRI.MACAN" tvg-name="TVRI" tvg-logo="https://i.ibb.co/4Rj46G8/TVRI.png" group-title="Indonesia",TVRI
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/15.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="Indonesia",RTV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/16.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOJI" tvg-logo="https://i.ibb.co/XsLqk8f/SGN-09-03-2022-1662138932019.png" group-title="Indonesia",MOJI
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/17.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 1" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="Malaysia",TV 1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/24.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://i.ibb.co/hBdcT78/TV2.png" group-title="Malaysia",TV2
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/25.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="Malaysia",TV3
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/26.ts
+#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="https://i.ibb.co/3N3JfSz/8.png" group-title="Malaysia",8TV
+http://play.cornertv.biz.id:8080/live/Kucobang/654321/28.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV9" tvg-logo="https://i.ibb.co/WBw9D1r/AAXS.png" group-title="Malaysia",TV9
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/29.ts
+#EXTINF:-1 tvg-id="" tvg-name="Okey" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png" group-title="Malaysia",Okey
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/30.ts
+#EXTINF:-1 tvg-id="" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="Malaysia",Awesome TV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/31.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="Religi",Alhijrah
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/33.ts
+#EXTINF:-1 tvg-id="" tvg-name="Awani" tvg-logo="https://i.ibb.co/rbSH8xj/gn.png" group-title="Malaysia",Awani
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="Oasis" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="Malaysia",Oasis
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/36.ts
+#EXTINF:-1 tvg-id="" tvg-name="RIA" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="Malaysia",RIA
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/38.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prima" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="Malaysia",Prima
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/39.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warna" tvg-logo="https://i.ibb.co/4Z83c5n/WETYE.png" group-title="Malaysia",Warna
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aura" tvg-logo="https://i.ibb.co/D4YHLf6/58T.png" group-title="Malaysia",Aura
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/42.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rania" tvg-logo="https://i.ibb.co/y0cGSsg/ASd.png" group-title="Malaysia",Rania
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/43.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="Movies",HBO HITS
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/45.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="Movies",HBO FAMILY
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/46.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="Movies",HBO SIGNATURE
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/47.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOWCASE MOVIE" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png" group-title="Movies",SHOWCASE MOVIE
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="Movies",Cinemax
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Cinema" tvg-logo="https://i.imgur.com/432Y3wu.png" group-title="Movies",MY Cinema
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="My Cinema Asia" tvg-logo="https://i.imgur.com/m5Z3kJ2.png" group-title="Movies",My Cinema Asia
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="My Family Channel" tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="Movies",My Family Channel
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png" group-title="Movies",Galaxy
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/qJW2FQG/hd.png" group-title="Movies",Galaxy Premium
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/YhQFDQJ/xrg.png" group-title="Movies",Cinema World
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" group-title="Movies",Star Movies
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/57.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="Movies",Star Movies Select
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/58.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hits Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="Movies",Hits Movies
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/59.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="https://i.ibb.co/86t7VBg/sgtr.png" group-title="Movies",Hits
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/60.ts
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="Movies",Thrill
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="Movies",IMC
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/62.ts
+#EXTINF:-1 tvg-id="" tvg-name="FLik" tvg-logo="https://i.ibb.co/mH15H33/flik.png" group-title="Movies",FLik
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/63.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" group-title="Kids",Cartoon Network
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/64.ts
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="Kids",Nickelodeon
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/65.ts
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick JR" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="Kids",Nick JR
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/66.ts
+#EXTINF:-1 tvg-id="Dreamworks.MACAN" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/T8yPnjM/RDFHDCFG.png" group-title="Kids",Dreamworks
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/67.ts
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/YbKLSR1/gtfj.png" group-title="Kids",Boomerang
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/68.ts
+#EXTINF:-1 tvg-id="BabyFirst.MACAN" tvg-name="Baby First" tvg-logo="https://i.ibb.co/37ngmzn/bbbbbbbb.png" group-title="Kids",Baby First
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/69.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport : Premier League" tvg-logo="https://i.ibb.co/vXM0Xbt/1644814357946.png" group-title="Sport",Super Sport : Premier League
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/70.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport : Football" tvg-logo="https://i.ibb.co/n6Lt9nR/1644814795502.png" group-title="Sport",Super Sport : Football
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/71.ts
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Sport",ASSP
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/72.ts
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP 2" tvg-logo="https://i.ibb.co/M27hPW9/JHDET.png" group-title="Sport",ASSP 2
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/73.ts
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP 3" tvg-logo="https://i.ibb.co/3yqCpYV/gkg.png" group-title="Sport",ASSP 3
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/74.ts
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP 4" tvg-logo="https://i.ibb.co/Qct3SqW/s4.png" group-title="Sport",ASSP 4
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/75.ts
+#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="ASSP 5" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Sport",ASSP 5
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/76.ts
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="BEIN Sport 1 ID" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="Sport",BEIN Sport 1 ID
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/77.ts
+#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="BEIN Sport 3 ID" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="Sport",BEIN Sport 3 ID
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/78.ts
+#EXTINF:-1 tvg-id="bein1MY.MACAN" tvg-name="BEIN Sport MY" tvg-logo="https://i.ibb.co/nDGbRgS/BEINSPORT.png" group-title="Sport",BEIN Sport MY
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/79.ts
+#EXTINF:-1 tvg-id="beinMaxMY.MACAN" tvg-name="BEIN Sport MAX" tvg-logo="https://i.ibb.co/XzKCv6K/BEINMAX.png" group-title="Sport",BEIN Sport MAX
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/80.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/nmxQWd8/B1.png" group-title="Sport",BT Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/81.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/5Bc6M3T/B2.png" group-title="Sport",BT Sport 2
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/82.ts
+#EXTINF:-1 tvg-id="SPOTV.MACAN" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="Sport",SPOTV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/84.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="Sport",SPOTV 2
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/85.ts
+#EXTINF:-1 tvg-id="BeritaSatu.MACAN" tvg-name="Berita Satu" tvg-logo="https://i.ibb.co/FxD8rj8/beritasatu-home-tv.png" group-title="Indonesia",Berita Satu
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/98.ts
+#EXTINF:-1 tvg-id="CNNInternational.MACAN" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/sVBJdNZ/cnn-indo-home-tv.png" group-title="Indonesia",CNN Indonesia
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/99.ts
+#EXTINF:-1 tvg-id="CNBCIndonesia.MACAN" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/h8y058y/cnbc-indo-home-tv.png" group-title="Indonesia",CNBC Indonesia
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/100.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/1.ts
+#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png" group-title="Indonesia",ANTV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/2.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE Bioskop" tvg-logo="https://i.ibb.co/V3mWChh/JJGF.png" group-title="India",ZEE Bioskop
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/102.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vinmeen" tvg-logo="https://i.ibb.co/k9xQjKD/GSU.png" group-title="India",Vinmeen
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/103.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vaanavil" tvg-logo="https://i.ibb.co/mXMVhtv/YDF.png" group-title="India",Vaanavil
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/104.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABO Thangathirai" tvg-logo="https://i.imgur.com/D0vx6EY.png" group-title="India",ABO Thangathirai
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/105.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colors Hindi" tvg-logo="https://i.imgur.com/C4qeeRy.png" group-title="India",Colors Hindi
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/106.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bollyone HD" tvg-logo="https://i.ibb.co/sRNDvFS/bolly.png" group-title="India",Bollyone HD
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="https://i.imgur.com/7B36dPh.png" group-title="Movies",Paramount
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/109.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://i.ibb.co/r2frSm1/axn-home-tv.png" group-title="Movies",AXN
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/110.ts
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies" tvg-logo="https://i.ibb.co/M7HjR3n/ccm-home-tv.png" group-title="China/Taiwan",Celestial Classic Movies
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/111.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies" tvg-logo="https://i.ibb.co/hWGsnmT/scm-home-tv.png" group-title="China/Taiwan",Star Chinese Movies
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/112.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN Movies" tvg-logo="https://i.ibb.co/fHfhMfn/tvn-movies-home-tv.png" group-title="Movies",TVN Movies
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/114.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/qrwpdB3/warner-tv-home-tv.png" group-title="Movies",Warner TV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/C7tHQXY/celestial-movies-home-tv.png" group-title="China/Taiwan",Celestial Movies
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/116.ts
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="ANIPLUS" tvg-logo="https://i.ibb.co/6JGP61f/aniplus-home-tv.png" group-title="Kids",ANIPLUS
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/118.ts
+#EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="ANIMAX" tvg-logo="https://i.ibb.co/ZJGKFy9/animax-home-tv.png" group-title="Kids",ANIMAX
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/119.ts
+#EXTINF:-1 tvg-id="Lifetime.MACAN" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/NCJnNpC/lifetime-home-tv.png" group-title="Entertainment",Lifetime
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/120.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/KbF85XK/dunialain-home-tv.png" group-title="Entertainment",Dunia Lain
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://i.ibb.co/sgnGSrw/bbc-lifestyle-home-tv.png" group-title="Entertainment",BBC Lifestyle
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/123.ts
+#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="Sony GEM" tvg-logo="https://i.ibb.co/W0THBXG/s-gem-home-tv.png" group-title="Entertainment",Sony GEM
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/124.ts
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony ONE" tvg-logo="https://i.ibb.co/n7KzQjg/s-one-home-tv.png" group-title="Entertainment",Sony ONE
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/125.ts
+#EXTINF:-1 tvg-id="KPlus.id" tvg-name="K+" tvg-logo="https://i.ibb.co/VJX5J43/Kplus-home-tv.png" group-title="Entertainment",K+
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://i.ibb.co/ykm1ppp/arirang-home-tv.png" group-title="Entertainment",ARIRANG
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/127.ts
+#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="TvN" tvg-logo="https://i.ibb.co/G9mjnYQ/tvn-home-tv.png" group-title="Entertainment",TvN
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/128.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://i.ibb.co/NCgFhsD/nhk-world-jp-home-tv.png" group-title="Entertainment",NHK World
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/129.ts
+#EXTINF:-1 tvg-id="BlueAntExtreme.id" tvg-name="Rock Extreme" tvg-logo="https://i.ibb.co/Yp82rwB/SGN-06-05-2022-1654445759363.png" group-title="Entertainment",Rock Extreme
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/130.ts
+#EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="Rock Entertainment" tvg-logo="https://i.ibb.co/j8R3ngZ/SGN-06-05-2022-1654445686353.png" group-title="Entertainment",Rock Entertainment
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/131.ts
+#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/smgGgRB/bbc-earth-home-tv.png" group-title="Knowledge",BBC Earth
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/132.ts
+#EXTINF:-1 tvg-id="AstroDiscScience.my" tvg-name="DMAX" tvg-logo="https://i.ibb.co/y8TG9LW/Dmax-home-tv.png" group-title="Knowledge",DMAX
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/133.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="Knowledge",Smithsonian
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/134.ts
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/x7LTG51/Discovery-asia-home-tv.png" group-title="Knowledge",Discovery Asia
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/135.ts
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="https://i.ibb.co/LYbyBKp/cgtn-documentary-home-tv.png" group-title="Knowledge",CGTN Documentary
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/136.ts
+#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="https://i.ibb.co/yqvjGMH/tlc-home-tv.png" group-title="Knowledge",TLC
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/137.ts
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/Q9DVNPD/love-nature-home-tv.png" group-title="Knowledge",Love Nature
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/138.ts
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/4jSSG3Y/history-home-tv.png" group-title="Knowledge",History
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/139.ts
+#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="Knowledge",HGTV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/140.ts
+#EXTINF:-1 tvg-id="CrimeInvestigation.MACAN" tvg-name="Crime Investigation" tvg-logo="https://i.ibb.co/2s5CTbX/crime-investigation-home-tv.png" group-title="Knowledge",Crime Investigation
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/141.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/9y46z6n/Discovery-channel-home-tv.png" group-title="Knowledge",Discovery Channel
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/142.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/tZMSb5d/animal-planet-home-tv.png" group-title="Knowledge",Animal Planet
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/143.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/RPpN3KG/natgeo-wild-home-tv.png" group-title="Knowledge",Nat Geo Wild
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/144.ts
+#EXTINF:-1 tvg-id="NationalGeographicChannel.MACAN" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/WcJSHvc/natgeo-home-tv.png" group-title="Knowledge",National Geographic
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/145.ts
+#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="Asian Food Network" tvg-logo="https://i.ibb.co/vh4YJjH/afn-home-tv.png" group-title="Knowledge",Asian Food Network
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/146.ts
+#EXTINF:-1 tvg-id="" tvg-name="EURO Sport 1" tvg-logo="https://i.ibb.co/hs7xrL6/SGN-09-11-2022-1662905407610.png" group-title="Sport",EURO Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/149.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUKAN RTM" tvg-logo="https://i.ibb.co/8jVDBcX/iyu.png" group-title="Sport",SUKAN RTM
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/155.ts
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS Channel" tvg-logo="https://i.ibb.co/kcPBc8k/SGN-03-15-2022-1647333262141.png" group-title="Sport",TENNIS Channel
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/171.ts
+#EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/qd0RNHt/nba-home-tv.png" group-title="Sport",NBA TV
+http://play.cornertv.biz.id:8080/live/Kucoba654321/172.ts
+#EXTINF:-1 tvg-id="UseeSports.MACAN" tvg-name="USEE Sport 1" tvg-logo="https://i.ibb.co/zxMy9TG/useesport1-home-tv.png" group-title="Sport",USEE Sport 1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/173.ts
+#EXTINF:-1 tvg-id="UseeSports2.MACAN" tvg-name="USEE Sport 2" tvg-logo="https://i.ibb.co/jvyrSb5/useesport2-home-tv.png" group-title="Sport",USEE Sport 2
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/174.ts
+#EXTINF:-1 tvg-id="FightSports.MACAN" tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/PQQfDt9/tsh.png" group-title="Sport",Fight Sport
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/175.ts
+#EXTINF:-1 tvg-id="NBCGolf.MACAN" tvg-name="NBC Golf" tvg-logo="https://i.ibb.co/mHGzmxS/golf.png" group-title="Sport",NBC Golf
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/176.ts
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Arena 1" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="Sport",Arena 1
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/178.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="Sport",WWE
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/179.ts
+#EXTINF:-1 tvg-id="" tvg-name="IQIYI" tvg-logo="https://i.ibb.co/HgGKxwJ/KFH.png" group-title="China/Taiwan",IQIYI
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/180.ts
+#EXTINF:-1 tvg-id="" tvg-name="AEC" tvg-logo="https://i.ibb.co/3s9dG9G/fdiy.png" group-title="China/Taiwan",AEC
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/181.ts
+#EXTINF:-1 tvg-id="" tvg-name="HUAHEITAI" tvg-logo="https://i.ibb.co/x3MM1c6/ASDR.png" group-title="China/Taiwan",HUAHEITAI
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/182.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png" group-title="News International",AL JAZEERA
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/185.ts
+#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="https://i.ibb.co/6NKN4vg/cna-home-tv.png" group-title="News International",Channel News Asia
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/186.ts
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="" group-title="News International",KBS World
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/187.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="https://i.ibb.co/TKNLMYL/trt-world-home-tv.png" group-title="News International",TRT World
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/188.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.ibb.co/nBtSKNF/bloomberg-home-tv.png" group-title="News International",Bloomberg
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/189.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW English" tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="News International",DW English
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/190.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://i.ibb.co/xzjvBFZ/cnn-inter-home-tv.png" group-title="News International",CNN International
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/191.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sea Today" tvg-logo="https://i.ibb.co/SmMjGyq/zcaa.png" group-title="News International",Sea Today
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/192.ts
+#EXTINF:-1 tvg-id="" tvg-name="Izzah TV" tvg-logo="https://i.ibb.co/DVktLsG/SGN-05-29-2022-1653809699828.png" group-title="Religi",Izzah TV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/194.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="https://i.ibb.co/m5TzKYB/rodjatv-home-tv.png" group-title="Religi",Rodja TV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/195.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tawaf TV" tvg-logo="https://i.ibb.co/qkSYHSc/tawaftv-home-tv.png" group-title="Religi",Tawaf TV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/196.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wesal TV" tvg-logo="https://i.ibb.co/7z6nrZT/SGN-05-10-2022-1652180468583.png" group-title="Religi",Wesal TV
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/197.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV EROPA" tvg-logo="https://i.ibb.co/wYVcWRh/mtv-home-tv.png" group-title="Music",MTV EROPA
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/198.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP" tvg-logo="https://i.ibb.co/ZcYj6Tw/musictv-home-tv.png" group-title="Music",MUSIC TOP
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/199.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC PLUS" tvg-logo="https://i.ibb.co/ZcYj6Tw/musictv-home-tv.png" group-title="Music",MUSIC PLUS
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/200.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX News" tvg-logo="https://i.ibb.co/0rkJRtB/SGN-06-05-2022-1654407318824.png" group-title="News International",FOX News
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/238.ts
+#EXTINF:-1 tvg-id="Arena2.id" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="Sport",Arena 2
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/177.ts
+#EXTINF:-1 tvg-id="" tvg-name="Citra" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="Malaysia",Citra
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/41.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOO" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="Malaysia",BOO
+http://play.cornertv.biz.id:8080/live/Kucoba/654321/44.ts
