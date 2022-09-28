@@ -694,11 +694,6 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/ysGh0YV/Astro-Super-Sport-1.png" group-title="SPORT" tvg-id="016" tvg-name="016-T SPORT", Astro-Super-Sport
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52859
 #EXTINF:0 tvg-logo="https://i.ibb.co/bFTWHpf/Champions-TV-1-2021.png" group-title="SPORT" tvg-id="016" tvg-name="016-T SPORT", championstv1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
