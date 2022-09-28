@@ -701,7 +701,7 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/TYvLNTw/Be-IN-Sports-logo-2017.png
-" group-title="SPORT" tvg-id="016" tvg-name="016-T SPORT", Be-IN-Sports
+" group-title="SPORT" tvg-id="016" tvg-name="016-T SPORT", BeIN Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://iptvid.my.id/hmm/bskunyak1.m3u8
