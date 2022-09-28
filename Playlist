@@ -700,3 +700,8 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/5YQbsyN/Champions-TV-2-2021.png" group-title="SPORT" tvg-id="016" tvg-name="016-T SPORT", championstv2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
