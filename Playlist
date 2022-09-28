@@ -5,8 +5,7 @@
 #EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_abcaustralia.png" group-title="" tvg-id="001" tvg-name="001-ABC-AUSTRALIA", ABC AUSTRALIA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-http://play.cornertv.biz.id:8080/live/Kucoba/654321/236.ts
-
+https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_afn.png" group-title="LIFESTYLE" tvg-id="002" tvg-name="002-AFN", AFN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
