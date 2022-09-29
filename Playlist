@@ -729,4 +729,4 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:0 tvg-logo="https://cdn.macan.tv/img/flik.png" group-title="LOCAL" tvg-id="008" tvg-name="008-FLIK", FLIK
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-http://139.99.61.103:8080/live/Smiletv/Ceria/23.ts
+http://iptvid.my.id/hmm/flik.m3u8?by=iptv_id
