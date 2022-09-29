@@ -710,3 +710,8 @@ http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
+
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/6mj0lwfd21edg6e/photo_2021-12-04_21-13-26.jpg" group-title="SPORT" tvg-id="016" tvg-name="016-T SPORT", championstv3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://warkop.cf/86/formula1/02.m3u8
