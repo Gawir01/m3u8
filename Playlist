@@ -719,7 +719,7 @@ http://warkop.cf/86/formula1/02.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HVb21nz/SCTV-Logo-svg.png" group-title="" tvg-id="018" tvg-name="018-SCTV", SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/qjTpXwH/400px-Indosiar-2015-svg.png" group-title="LOCAL" tvg-id="016" tvg-name="016-Indosiar-1-HD", Indosiar
+#EXTINF:0 tvg-logo="https://i.ibb.co/qjTpXwH/400px-Indosiar-2015-svg.png" group-title="LOCAL" tvg-id="008" tvg-name="008-Indosiar", Indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
