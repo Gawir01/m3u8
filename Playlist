@@ -731,7 +731,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://play.cornertv.biz.id:8080/live/Kucoba/12345/17.ts
 
-#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_beinsports1_hd.png" group-title="SPORT" tvg-id="016" tvg-name="016-BEIN-SPORTS-1-HD", BEIN SPORTS 2
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_beinsports1_hd.png" group-title="SPORT" tvg-id="016" tvg-name="016-BEIN-SPORTS-1-HD", BEIN SPORTS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-http://koceng.xyz/MieGoreng/b.m3u8?koceng
+http://koceng.xyz/MieGoreng/b.m3u8
