@@ -77,7 +77,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Daai TV.id" tvg-logo="https://iili.io/JMp3WNV.png" group-title="NASIONAL",Da Ai TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/2GKJtYF.png" group-title="NASIONAL",Garuda TV
+#EXTINF:-1 tvg-logo="https://balatack.my.id/logogarudatv.png" group-title="NASIONAL",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3eKg.png" group-title="NASIONAL",Magna Channel
