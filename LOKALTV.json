@@ -32,10 +32,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
  
 #EXTINF:-1  tvg-logo="https://iili.io/JMp3wV1.png" group-title="NASIONAL", Indosiar 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; vivo 1819 Build/P00610; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.135 Mobile Safari/537.36
-https://qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
  
 #EXTINF:-1  tvg-logo="https://iili.io/JMp3wV1.png" group-title="NASIONAL", Indosiar 3
-https://direct.waroenk-tv.workers.dev/indosiar.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://xtv.ooo:8080/52882216/581881255/350972.ts
  
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="NASIONAL",Moji
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
